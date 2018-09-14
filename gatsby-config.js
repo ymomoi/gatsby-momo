@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    url: 'https://ymomoi.github.io',
+    url: 'https://m.bug.org',
     title: 'momorandum',
     subtitle: "momo's memorandums",
     copyright: '© All rights reserved.',
