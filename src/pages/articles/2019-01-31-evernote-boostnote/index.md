@@ -9,7 +9,7 @@ tags:
   - "Boostnote"
 description: "Boostnote を使ってみたらよかったので、Evernote からノートを移行することにしました。"
 ---
-[Boostnote を使ってみる](https://m.bug.org/posts/2018090700/)ということで、ときどき使ってました。
+[Boostnote を使ってみる](https://m.bug.org/posts/2018090700/)で書いたとおり、Boostnote をときどき使ってました。
 やはり Markdown を書き留めるにはとても使いやすかったので、PC で使うメモツールはこちらに乗り替えることに決めました。
 メモツールはやはり蓄積と検索がキモだと思うので、Evernote で蓄えていた文書はまるごと移行しておきたい… ということで、ノートの引っ越しをしようと。
 
