@@ -16,7 +16,7 @@ description: "Boostnote を使ってみたらよかったので、Evernote か�
 Evernote からのデータ移行ツールとしては [ever2boost](https://github.com/BoostIO/ever2boost) があるんですが、[Evernote の Developer token がここしばらく提供されていない](https://qiita.com/kilica/items/aca598fd0c85be4a8bdf)ようです。
 確かに temporarily disabled となってますね… (2019-01-29現在)
 
-この Qiita の記事では HTML 出力からテキストを切り出していますが、Evernote 形式の XML (.enex) 出力もできて、ever2boost コマンドはそのファイルからのインポートもできるようだったので、その方法を試してみることにしました。
+この Qiita の記事では HTML 出力からテキストを切り出していますが、Evernote は XML (.enex) 出力もできて、ever2boost コマンドはそのファイルからのインポートもできるようだったので、その方法を試してみることにしました。
 
 ever2boost はあまり更新されていないようで、単に取ってきて実行するだけでは動きませんが、実行時に出るエラーは Issue に解決策があります。
 
