@@ -15,8 +15,8 @@ module.exports = {
         path: '/about/'
       }
 //      {
-//        label: 'Contact me',
-//        path: '/contact/'
+//        label: 'Old pages',
+//        path: 'https://bug.org/~momo/'
 //      }
     ],
     author: {
@@ -119,10 +119,8 @@ module.exports = {
       options: { trackingId: 'UA-108111997-1' }
     },
     {
-      resolve: `gatsby-plugin-google-fonts`,
-      options: {
-        fonts: [`roboto\:400,400i,500,700`]
-      }
+      resolve: 'gatsby-plugin-google-fonts',
+      options: { fonts: ['roboto:400,400i,500,700'] }
     },
     {
       resolve: 'gatsby-plugin-sitemap',
